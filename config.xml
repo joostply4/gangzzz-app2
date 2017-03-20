@@ -33,6 +33,7 @@
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="keyboardDisplayRequiresUserAction" value="false" />
     <preference name="webviewbounce" value="false" />
+    <preference name="EnableViewportScale" value="true"/>
 
     <!-- If you are seeing a blank screen on Android on app load, uncomment SplashScreenDelay preference -->
     <!--preference name="SplashScreenDelay" value="10000" /-->
